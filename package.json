@@ -1,0 +1,33 @@
+{
+  "name": "tmi.js-alt",
+  "version": "0.1.0-alpha",
+  "description": "An alternate to tmijs/tmi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlcaDesign/tmi.js-alt.git"
+  },
+  "keywords": [
+    "tmi.js",
+    "Twitch",
+    "messaging",
+    "system",
+    "interface",
+    "irc"
+  ],
+  "author": "Jacob \"Alca\" Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlcaDesign/tmi.js-alt/issues"
+  },
+  "homepage": "https://github.com/AlcaDesign/tmi.js-alt#readme",
+  "dependencies": {
+    "irc-message": "^3.0.2",
+    "irc-prefix-parser": "^1.0.1",
+    "lodash": "^4.15.0",
+    "ws": "^1.1.1"
+  }
+}
